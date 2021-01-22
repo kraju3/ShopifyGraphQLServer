@@ -1,0 +1,24 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^1.4.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "graphql-tools": "^7.0.2",
+    "log4js": "^6.3.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
