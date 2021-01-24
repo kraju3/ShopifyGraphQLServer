@@ -16,7 +16,8 @@
     "graphql": "^15.4.0",
     "graphql-tools": "^7.0.2",
     "log4js": "^6.3.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.13"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
